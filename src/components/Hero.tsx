@@ -70,10 +70,6 @@ export const Hero = () => {
               <Linkedin className="w-8 h-8" />
             </a>
           </div>
-          <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed mt-4">
-            A passionate Computer Science student at Shri Ramswaroop Memorial University with experience in Python development,
-            AI/ML, and web technologies. Multiple scholarship recipient with a track record of successful internships and projects.
-          </p>
         </div>
       </div>
     </section>
