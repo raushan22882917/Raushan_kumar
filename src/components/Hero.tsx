@@ -43,7 +43,7 @@ export const Hero = () => {
               className="rounded-full"
               onClick={() =>
                 window.open(
-                  "https://drive.google.com/file/d/1SL7LlAHNuXnW0Ps-mGHbwMdfexvEhqdA/view?usp=sharing",
+                  "https://drive.google.com/file/d/1rmwWRnt4UOseaBoB5xVk0EEt4EZRkc_T/view?usp=sharing",
                   "_blank"
                 )
               }
